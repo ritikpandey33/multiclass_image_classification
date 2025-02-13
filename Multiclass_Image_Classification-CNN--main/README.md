@@ -35,7 +35,7 @@ This notebook serves as a comprehensive guide for anyone looking to understand o
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ritikpandey33/multiclass-image-classification.git
+   git clone https://github.com/ritikpandey33/multiclass_image_classification.git
    ```
 2. Install required dependencies:
    ```bash
